@@ -75,7 +75,7 @@
     background-color: #a7874b;
   }
   
-  @media only screen and (max-width: 560px) {
+  @media only screen and (max-width: 360px) {
     .SearchBar {
       background-image: url('../../Images/background_search_mobile.jpg');
     }

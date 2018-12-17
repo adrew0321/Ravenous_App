@@ -7,9 +7,9 @@ class App extends React.Component {
   render() {
     return (
         <React.Fragment>
+          <h1>ravenous</h1>
           <SearchBar />
           <BusinessList />
-
         </React.Fragment>
     );
   }
